@@ -1,0 +1,7 @@
+.header__buttons-item {
+  margin-right: 16px;
+  display: flex;
+  gap: 5px;
+  text-decoration: none;
+  color: #fff;
+}

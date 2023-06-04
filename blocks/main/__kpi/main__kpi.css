@@ -1,0 +1,8 @@
+.main__kpi {
+  list-style-type: none;
+  margin: 26px 0 0;
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+  gap: 32px;
+}

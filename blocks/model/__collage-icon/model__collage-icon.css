@@ -1,0 +1,7 @@
+.model__collage-icon  {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: -44px;
+  top: calc(50% - 90px/2 - 219px);
+}

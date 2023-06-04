@@ -1,0 +1,19 @@
+.model__item {
+  position: relative;
+  padding: 0 74px 0 36px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+
+  color: var(--title);
+}
+
+.model__item::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f058";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--icons-bgc);
+}

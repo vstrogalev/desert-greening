@@ -1,0 +1,5 @@
+.model__main {
+  width: 650px;
+  display: flex;
+  flex-direction: column;
+}

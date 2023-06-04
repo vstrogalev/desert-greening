@@ -1,0 +1,11 @@
+.header__buttons-search {
+  width: 38px;
+  height: 26px;
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 11px;
+  border-right: 1px solid #FFFFFF;
+}

@@ -1,0 +1,12 @@
+.button-regular {
+  width: 174px;
+  height: 58px;
+  background-color: var(--line-links);
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 23px;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.solutions__slider-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 412px;
+  height: 516px;
+  box-shadow: 0px 10px 25px rgba(33, 52, 48, 0.08);
+  border-radius: 10px;
+}

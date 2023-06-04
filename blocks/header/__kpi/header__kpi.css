@@ -1,0 +1,11 @@
+.header__kpi {
+  position: relative;
+  width: 70%;
+  height: 100%;
+  padding-right: 52px;
+  background-color: var(--header-kpi);
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  z-index: 1;
+}

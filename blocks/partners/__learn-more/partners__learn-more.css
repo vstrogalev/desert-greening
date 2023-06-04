@@ -1,0 +1,9 @@
+.partners__learn-more {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 23px;
+  text-decoration-line: underline;
+  text-transform: capitalize;
+
+  color: var(--line-links);
+}

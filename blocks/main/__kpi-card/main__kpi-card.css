@@ -1,0 +1,7 @@
+.main__kpi-card {
+  width: 178px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+}

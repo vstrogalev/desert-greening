@@ -1,0 +1,10 @@
+.header__buttons {
+  height: 100%;
+  width: 30%;
+  padding-right: 48px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: var(--line-links);
+  z-index: 1;
+}

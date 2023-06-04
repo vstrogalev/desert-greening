@@ -1,0 +1,7 @@
+.main__kpi-value {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 40px;
+  padding-bottom: 6px;
+  border-bottom: 3px solid #ECA30C;
+}

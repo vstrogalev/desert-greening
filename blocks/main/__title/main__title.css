@@ -1,0 +1,9 @@
+.main__title {
+  margin: -40px 0 17px;
+  padding: 0;
+  max-width: 911px;
+  font-weight: 600;
+  font-size: 54px;
+  line-height: 65px;
+  text-transform: uppercase;
+}
