@@ -1,0 +1,21 @@
+.global__filter {
+  height: 43px;
+
+  background: #FFFFFF;
+  border: 1px solid #DDDDDD;
+  border-radius: 5px;
+}
+
+.global__filter a {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #213430;
+}

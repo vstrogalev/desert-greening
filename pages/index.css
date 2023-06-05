@@ -45,10 +45,9 @@
 @import url(../blocks/solutions/solutions.css);
 @import url(../blocks/solutions/__title/solutions__title.css);
 @import url(../blocks/solutions/__marker/solutions__marker.css);
-@import url(../blocks/solutions/__slider-left-arrow/solutions__slider-left-arrow.css);
+@import url(../blocks/solutions/__slider/solutions__slider.css);
 @import url(../blocks/solutions/__slider-left-arrow/solutions__slider-left-arrow.css);
 @import url(../blocks/solutions/__slider-right-arrow/solutions__slider-right-arrow.css);
-@import url(../blocks/solutions/__slider/solutions__slider.css);
 @import url(../blocks/solutions/__slider-card/solutions__slider-card.css);
 @import url(../blocks/solutions/__slider-card-img/solutions__slider-card-img.css);
 @import url(../blocks/solutions/__card-subtitle/solutions__card-subtitle.css);
@@ -77,3 +76,17 @@
 @import url(../blocks/model/__list/model__list.css);
 @import url(../blocks/model/__item/model__item.css);
 
+@import url(../blocks/global/global.css);
+@import url(../blocks/global/__caption/global__caption.css);
+@import url(../blocks/global/__title/global__title.css);
+@import url(../blocks/global/__slider/global__slider.css);
+@import url(../blocks/global/__slider-left-arrow/global__slider-left-arrow.css);
+@import url(../blocks/global/__slider-right-arrow/global__slider-right-arrow.css);
+@import url(../blocks/global/__slider-card/global__slider-card.css);
+@import url(../blocks/global/__slider-card-img/global__slider-card-img.css);
+@import url(../blocks/global/__card-geo/global__card-geo.css);
+@import url(../blocks/global/__card-title/global__card-title.css);
+@import url(../blocks/global/__card-text/global__card-text.css);
+@import url(../blocks/global/__card-btn/global__card-btn.css);
+@import url(../blocks/global/__filters/global__filters.css);
+@import url(../blocks/global/__filter/global__filter.css);

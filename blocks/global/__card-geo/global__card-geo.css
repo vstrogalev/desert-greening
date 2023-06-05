@@ -1,0 +1,19 @@
+.global__card-geo {
+  position: absolute;
+  padding: 0 10px;
+  height: 46px;
+  left: 32px;
+  top: 46%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  background: var(--icons-bgc);
+  border-radius: 5px;
+}
+
+.global__card-geo i {
+  margin-right: 9px;
+}

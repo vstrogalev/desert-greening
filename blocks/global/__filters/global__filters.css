@@ -1,0 +1,10 @@
+.global__filters {
+
+}
+
+.global__filters ul {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+  margin: 0 0 58px;
+}

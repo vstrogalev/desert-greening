@@ -1,8 +1,10 @@
 .model__inner {
   padding: 120px 0;
   height: 630px;
-  background-image: url(../../images/map-image.png);
+  background-image: url(../../../images/map-image.png);
+  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   align-items:flex-start;
+  gap: 90px;
 }
