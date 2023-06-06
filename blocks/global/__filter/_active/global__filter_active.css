@@ -1,0 +1,5 @@
+.global__filter_active {
+  background: var(--line-links);
+  border: 1px solid var(--line-links);
+  color: #fff;
+}

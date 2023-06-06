@@ -1,6 +1,6 @@
 .global__card-geo {
   position: absolute;
-  padding: 0 10px;
+  padding: 0 20px 0 22px;
   height: 46px;
   left: 32px;
   top: 46%;
@@ -9,6 +9,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  text-decoration: none;
 
   background: var(--icons-bgc);
   border-radius: 5px;

@@ -90,3 +90,4 @@
 @import url(../blocks/global/__card-btn/global__card-btn.css);
 @import url(../blocks/global/__filters/global__filters.css);
 @import url(../blocks/global/__filter/global__filter.css);
+@import url(../blocks/global/__filter/_active/global__filter_active.css);
