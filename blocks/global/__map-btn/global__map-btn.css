@@ -1,0 +1,8 @@
+.global__map-btn {
+  position: relative;
+  bottom: 40px;
+  display: block;
+  margin: 0 auto;
+  width: 252px;
+  height: 72px;
+}

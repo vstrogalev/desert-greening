@@ -1,4 +1,4 @@
-.global__card-geo {
+.global__slider-card-geo {
   position: absolute;
   padding: 0 20px 0 22px;
   height: 46px;
@@ -15,6 +15,6 @@
   border-radius: 5px;
 }
 
-.global__card-geo i {
+.global__slider-card-geo i {
   margin-right: 9px;
 }
