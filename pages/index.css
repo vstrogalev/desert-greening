@@ -10,6 +10,13 @@
 @import url(../blocks/button-play/button-play.css);
 @import url(../blocks/section-title/section-title.css);
 
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
+
+@import url(../blocks/card-subtitle/card__subtitle.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__top/header__top.css);
 @import url(../blocks/header/__kpi/header__kpi.css);
@@ -48,11 +55,6 @@
 @import url(../blocks/solutions/__slider/solutions__slider.css);
 @import url(../blocks/solutions/__slider-left-arrow/solutions__slider-left-arrow.css);
 @import url(../blocks/solutions/__slider-right-arrow/solutions__slider-right-arrow.css);
-@import url(../blocks/solutions/__slider-card/solutions__slider-card.css);
-@import url(../blocks/solutions/__slider-card-img/solutions__slider-card-img.css);
-@import url(../blocks/solutions/__card-subtitle/solutions__card-subtitle.css);
-@import url(../blocks/solutions/__card-title/solutions__card-title.css);
-@import url(../blocks/solutions/__card-text/solutions__card-text.css);
 @import url(../blocks/solutions/__card-btn/solutions__card-btn.css);
 
 @import url(../blocks/partners/partners.css);
