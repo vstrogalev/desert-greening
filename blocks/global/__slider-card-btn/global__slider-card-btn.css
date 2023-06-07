@@ -1,8 +1,5 @@
 .global__slider-card-btn {
   width: 158px;
-  height: 58px;
-  text-transform: capitalize;
   background-color: var(--card-btn);
-  align-self: flex-start;
   margin-left: 32px;
 }
