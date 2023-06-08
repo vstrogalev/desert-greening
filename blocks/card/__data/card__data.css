@@ -1,0 +1,4 @@
+.card__data {
+  width: calc(100% - 60px);
+  padding: 0 30px;
+}

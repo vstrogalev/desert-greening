@@ -1,8 +1,8 @@
-.model__subtitle {
+.section-subtitle {
+  max-width: 886px;
   font-weight: 400;
   font-size: 18px;
   line-height: 25px;
   text-align: center;
-
   color: var(--title);
 }

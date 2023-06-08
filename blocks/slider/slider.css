@@ -1,8 +1,8 @@
-.solutions__slider {
+.slider {
   position: relative;
   margin: 0 auto;
   display: flex;
-  gap: 28px;
+  gap: 30px;
   flex-wrap: wrap;
   justify-content: center;
 }
