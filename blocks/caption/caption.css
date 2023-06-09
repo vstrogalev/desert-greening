@@ -1,0 +1,8 @@
+.caption {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+
+  color: var(--icons-bgc);
+}

@@ -1,0 +1,6 @@
+.origin__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 20px;
+}

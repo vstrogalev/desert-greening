@@ -1,0 +1,5 @@
+.origin__col-right {
+  position: relative;
+  height: 378px;
+  width: calc(50% - 10px);
+}
