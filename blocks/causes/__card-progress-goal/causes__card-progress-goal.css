@@ -1,3 +1,5 @@
 .causes__card-progress-goal {
-
+  position: absolute;
+  right: 0;
+  top: 11px;
 }

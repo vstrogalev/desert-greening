@@ -109,6 +109,7 @@
 @import url(../blocks/causes/__image/causes__image.css);
 @import url(../blocks/causes/__card-subtitle/causes__card-subtitle.css);
 @import url(../blocks/causes/__card-title/causes__card-title.css);
+@import url(../blocks/causes/__card-text/causes__card-text.css);
 @import url(../blocks/causes/__card-btn/causes__card-btn.css);
 @import url(../blocks/causes/__card-progress/causes__card-progress.css);
 @import url(../blocks/causes/__card-progress-bg/causes__card-progress-bg.css);

@@ -1,3 +1,5 @@
 .causes__card-progress-start {
-
+  position: absolute;
+  left: 0;
+  top: 11px;
 }
