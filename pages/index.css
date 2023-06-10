@@ -90,7 +90,6 @@
 @import url(../blocks/global/__slider-card/global__slider-card.css);
 @import url(../blocks/global/__slider-card-img/global__slider-card-img.css);
 @import url(../blocks/global/__slider-card-geo/global__slider-card-geo.css);
-@import url(../blocks/global/__slider-card-title/global__slider-card-title.css);
 @import url(../blocks/global/__slider-card-text/global__slider-card-text.css);
 @import url(../blocks/global/__slider-card-btn/global__slider-card-btn.css);
 
@@ -134,3 +133,14 @@
 @import url(../blocks/origin/__card-image/origin__card-image.css);
 
 @import url(../blocks/djanan/djanan.css);
+@import url(../blocks/djanan/__wrapper/djanan__wrapper.css);
+@import url(../blocks/djanan/__title/djanan__title.css);
+@import url(../blocks/djanan/__bg_bl/djanan__bg_bl.css);
+@import url(../blocks/djanan/__bg_tr/djanan__bg_tr.css);
+@import url(../blocks/djanan/__photos/djanan__photos.css);
+@import url(../blocks/djanan/__card/djanan__card.css);
+@import url(../blocks/djanan/__image/djanan__image.css);
+@import url(../blocks/djanan/__ico/djanan__ico.css);
+@import url(../blocks/djanan/__line/djanan__line.css);
+@import url(../blocks/djanan/__card-title/djanan__card-title.css);
+@import url(../blocks/djanan/__card-text/djanan__card-text.css);
