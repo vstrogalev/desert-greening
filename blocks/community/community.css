@@ -1,0 +1,8 @@
+.community {
+  height: 939px;
+  padding: 113px 0 143px;
+
+  background-image: url(../../images/community_bg.png);
+  background-size: cover;
+  background-position: center;
+}

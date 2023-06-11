@@ -1,0 +1,12 @@
+.community__content-title {
+  max-width: 670px;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  margin-bottom: 12px;
+
+  display: flex;
+  align-items: center;
+
+  color: var(--title);
+}
