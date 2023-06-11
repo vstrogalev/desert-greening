@@ -1,0 +1,8 @@
+.world__bg-tr {
+  position: absolute;
+  top: -124px;
+  right: -110px;
+  height: 777px;
+  object-fit: cover;
+  z-index: -1;
+}
