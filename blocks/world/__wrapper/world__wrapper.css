@@ -1,0 +1,6 @@
+.world__wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 80px;
+}

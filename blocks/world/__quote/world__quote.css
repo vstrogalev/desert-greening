@@ -1,0 +1,26 @@
+.world__quote {
+  position: relative;
+  padding: 18px 92px 20px 60px;
+  margin: 0 0 22px;
+  max-height: 92px;
+  border-radius: 10px;
+  background-color: var(--progress-bg);
+
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+}
+
+.world__quote::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f10d";
+  position: absolute;
+  top: 18px;
+  left: 22px;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 20px;
+  color: var(--line-links);
+}

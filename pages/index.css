@@ -154,3 +154,13 @@
 @import url(../blocks/transforming/__card-img/transforming__card-img.css);
 @import url(../blocks/transforming/__card-title/transforming__card-title.css);
 @import url(../blocks/transforming/__card-text/transforming__card-text.css);
+
+@import url(../blocks/world/world.css);
+@import url(../blocks/world/__wrapper/world__wrapper.css);
+@import url(../blocks/world/__column/world__column.css);
+@import url(../blocks/world/__image/world__image.css);
+@import url(../blocks/world/__caption/world__caption.css);
+@import url(../blocks/world/__title/world__title.css);
+@import url(../blocks/world/__marker/world__marker.css);
+@import url(../blocks/world/__text/world__text.css);
+@import url(../blocks/world/__quote/world__quote.css);

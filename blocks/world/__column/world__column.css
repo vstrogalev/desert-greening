@@ -1,0 +1,3 @@
+.world__column {
+  width: calc(50% - 40px);
+}
