@@ -1,0 +1,10 @@
+.science__image-blur {
+  position: absolute;
+  width: 1442px;
+  height: 150px;
+  left: 0;
+  bottom: 0;
+
+  background: linear-gradient(180deg, #FFFFFF 46.79%, rgba(255, 255, 255, 0) 100%);
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}

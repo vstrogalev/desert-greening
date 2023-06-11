@@ -1,0 +1,15 @@
+.science__card-logo-outer {
+  width: 161px;
+  height: 130px;
+  left: calc(50% - 161px/2 + 346px);
+  top: 171px;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  margin-bottom: 24px;
+
+  /* background: #131A21; */
+  background-color: #000;
+  border: 1px solid #FFFFFF;
+  border-radius: 11px;
+}

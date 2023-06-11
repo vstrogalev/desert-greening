@@ -135,8 +135,8 @@
 @import url(../blocks/djanan/djanan.css);
 @import url(../blocks/djanan/__wrapper/djanan__wrapper.css);
 @import url(../blocks/djanan/__title/djanan__title.css);
-@import url(../blocks/djanan/__bg_bl/djanan__bg_bl.css);
-@import url(../blocks/djanan/__bg_tr/djanan__bg_tr.css);
+@import url(../blocks/djanan/__bg-bl/djanan__bg-bl.css);
+@import url(../blocks/djanan/__bg-tr/djanan__bg-tr.css);
 @import url(../blocks/djanan/__photos/djanan__photos.css);
 @import url(../blocks/djanan/__card/djanan__card.css);
 @import url(../blocks/djanan/__image/djanan__image.css);
@@ -164,3 +164,12 @@
 @import url(../blocks/world/__marker/world__marker.css);
 @import url(../blocks/world/__text/world__text.css);
 @import url(../blocks/world/__quote/world__quote.css);
+
+@import url(../blocks/science/science.css);
+@import url(../blocks/science/__image/science__image.css);
+@import url(../blocks/science/__image-blur/science__image-blur.css);
+@import url(../blocks/science/__card/science__card.css);
+@import url(../blocks/science/__card-logo-outer/science__card-logo-outer.css);
+@import url(../blocks/science/__card-logo/science__card-logo.css);
+@import url(../blocks/science/__card-title/science__card-title.css);
+@import url(../blocks/science/__card-text/science__card-text.css);
