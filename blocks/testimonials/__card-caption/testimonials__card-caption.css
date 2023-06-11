@@ -1,0 +1,8 @@
+.testimonials__card-caption {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  margin: 0 0 9px;
+
+  color: var(--icons-bgc);
+}

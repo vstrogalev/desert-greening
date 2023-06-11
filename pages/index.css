@@ -188,3 +188,20 @@
 @import url(../blocks/community/__content-caption/community__content-caption.css);
 @import url(../blocks/community/__content-title/community__content-title.css);
 @import url(../blocks/community/__content-text/community__content-text.css);
+
+@import url(../blocks/testimonials/testimonials.css);
+@import url(../blocks/testimonials/__wrapper/testimonials__wrapper.css);
+@import url(../blocks/testimonials/__bg-bl/testimonials__bg-bl.css);
+@import url(../blocks/testimonials/__title/testimonials__title.css);
+@import url(../blocks/testimonials/__slider/testimonials__slider.css);
+@import url(../blocks/testimonials/__card/testimonials__card.css);
+@import url(../blocks/testimonials/__card-caption/testimonials__card-caption.css);
+@import url(../blocks/testimonials/__card-title/testimonials__card-title.css);
+@import url(../blocks/testimonials/__card-quote/testimonials__card-quote.css);
+@import url(../blocks/testimonials/__card-author/testimonials__card-author.css);
+@import url(../blocks/testimonials/__card-author-img/testimonials__card-author-img.css);
+@import url(../blocks/testimonials/__card-author-fullname/testimonials__card-author-fullname.css);
+@import url(../blocks/testimonials/__card-author-name/testimonials__card-author-name.css);
+@import url(../blocks/testimonials/__card-author-surname/testimonials__card-author-surname.css);
+
+@import url(../blocks/testimonials/__collage/testimonials__collage.css);

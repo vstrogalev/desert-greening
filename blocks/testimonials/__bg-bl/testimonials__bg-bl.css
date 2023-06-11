@@ -1,0 +1,8 @@
+.testimonials__bg-bl {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #000;
+  height: 777px;
+  object-fit: cover;
+}

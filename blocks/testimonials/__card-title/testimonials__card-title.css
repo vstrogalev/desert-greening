@@ -1,9 +1,9 @@
-.community__content-title {
+.testimonials__card-title {
   max-width: 670px;
   font-weight: 600;
   font-size: 40px;
   line-height: 48px;
-  margin-bottom: 12px;
+  margin-bottom: 20px;
 
   color: var(--title);
 }

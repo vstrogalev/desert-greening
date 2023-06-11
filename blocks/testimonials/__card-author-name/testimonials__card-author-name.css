@@ -1,0 +1,10 @@
+.testimonials__card-author-name {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 23px;
+  margin: 0;
+
+  text-transform: capitalize;
+
+  color: var(--title);
+}

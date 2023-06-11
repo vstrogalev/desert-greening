@@ -1,0 +1,12 @@
+.testimonials__collage {
+  position: absolute;
+  bottom: 112px;
+  right: 70px;
+
+  width: 572px;
+  height: 572px;
+  object-fit: cover;
+
+  border-radius: 10px;
+  z-index: -1;
+}

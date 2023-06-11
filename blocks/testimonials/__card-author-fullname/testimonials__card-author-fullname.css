@@ -1,0 +1,6 @@
+.testimonials__card-author-fullname {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
