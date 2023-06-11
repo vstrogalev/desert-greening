@@ -1,0 +1,30 @@
+.djanan__ico-wrap {
+  position: relative;
+  margin-top: 86px;
+  width: 52px;
+  height: 52px;
+}
+
+.djanan__ico-wrap::before {
+  content: '';
+  width: 66px;
+  height: 0;
+  position: absolute;
+  left: calc(50% - 38px);
+  top: -52px;
+  border: 1px dashed var(--djanan-line);
+  transform: rotate(-90deg);
+  z-index: 10;
+}
+
+.djanan__ico-wrap::after {
+  content: '';
+  width: 26px;
+  height: 0;
+  position: absolute;
+  left: calc(50% - 16px);
+  bottom: -28px;
+  border: 1px dashed var(--djanan-line);
+  transform: rotate(-90deg);
+  z-index: 10;
+}

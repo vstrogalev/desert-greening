@@ -1,4 +1,5 @@
 .djanan__card {
+  position: relative;
   width: 385px;
   height: 711px;
   display: flex;
