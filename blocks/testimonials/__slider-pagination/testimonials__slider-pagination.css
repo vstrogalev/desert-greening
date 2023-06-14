@@ -1,0 +1,10 @@
+.testimonials__slider-pagination {
+  height: 22px;
+  position: absolute;
+  bottom: 62px;
+  left: calc(50% - 39px);
+  display: flex;
+  justify-content: space-around;
+  gap: 12px;
+  align-items: center;
+}

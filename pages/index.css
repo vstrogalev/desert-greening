@@ -205,3 +205,7 @@
 @import url(../blocks/testimonials/__card-author-surname/testimonials__card-author-surname.css);
 
 @import url(../blocks/testimonials/__collage/testimonials__collage.css);
+
+@import url(../blocks/testimonials/__slider-pagination/testimonials__slider-pagination.css);
+@import url(../blocks/testimonials/__slider-dot/testimonials__slider-dot.css);
+@import url(../blocks/testimonials/__slider-dot/_active/testimonials__slider-dot_active.css);
