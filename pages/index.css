@@ -209,3 +209,13 @@
 @import url(../blocks/testimonials/__slider-pagination/testimonials__slider-pagination.css);
 @import url(../blocks/testimonials/__slider-dot/testimonials__slider-dot.css);
 @import url(../blocks/testimonials/__slider-dot/_active/testimonials__slider-dot_active.css);
+
+@import url(../blocks/news/news.css);
+@import url(../blocks/news/__slider/news__slider.css);
+@import url(../blocks/news/__card-image/news__card-image.css);
+@import url(../blocks/news/__card-subtitle/news__card-subtitle.css);
+@import url(../blocks/news/__card-title/news__card-title.css);
+@import url(../blocks/news/__card-text/news__card-text.css);
+
+@import url(../blocks/news/__hash-list/news__hash-list.css);
+@import url(../blocks/news/__hashtag-link/news__hashtag-link.css);

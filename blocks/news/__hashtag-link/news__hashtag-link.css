@@ -1,0 +1,14 @@
+.news__hashtag-link {
+  height: 34px;
+  margin: 0;
+  padding: 7px 19px;
+  text-decoration: none;
+
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: var(--line-links);
+  background: var(--hashtag-bg);
+  border-radius: 5px;
+}
