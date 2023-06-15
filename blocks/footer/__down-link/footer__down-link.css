@@ -1,0 +1,18 @@
+.footer__down-link {
+  position: relative;
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer__down-link:last-child::before {
+  content: '';
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 2px;
+  height: 15px;
+  left: -11px;
+  top: 4px;
+
+  border-left: 2px solid var(--hashtag-bg);
+}

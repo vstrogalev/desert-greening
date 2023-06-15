@@ -219,3 +219,17 @@
 
 @import url(../blocks/news/__hash-list/news__hash-list.css);
 @import url(../blocks/news/__hashtag-link/news__hashtag-link.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__wrapper/footer__wrapper.css);
+@import url(../blocks/footer/__top/footer__top.css);
+@import url(../blocks/footer/__subscribe/footer__subscribe.css);
+@import url(../blocks/footer/__subscribe-title/footer__subscribe-title.css);
+@import url(../blocks/footer/__subscribe-form/footer__subscribe-form.css);
+@import url(../blocks/footer/__subscribe-name/footer__subscribe-name.css);
+@import url(../blocks/footer/__subscribe-email/footer__subscribe-email.css);
+
+@import url(../blocks/footer/__down/footer__down.css);
+@import url(../blocks/footer/__down-inner/footer__down-inner.css);
+@import url(../blocks/footer/__down-links/footer__down-links.css);
+@import url(../blocks/footer/__down-link/footer__down-link.css);

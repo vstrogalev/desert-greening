@@ -1,0 +1,6 @@
+.footer__subscribe-form {
+  height: 56px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 18px;
+}

@@ -1,0 +1,11 @@
+.footer__down-links {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 22px;
+  text-transform: capitalize;
+}

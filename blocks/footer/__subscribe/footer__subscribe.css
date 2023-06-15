@@ -1,0 +1,5 @@
+.footer__subscribe {
+  box-sizing: border-box;
+  height: 141px;
+  border-bottom: 1px solid var(--map-text);
+}

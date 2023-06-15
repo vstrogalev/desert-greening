@@ -1,0 +1,9 @@
+.footer__subscribe-email {
+  box-sizing: border-box;
+  width: 312px;
+  margin-right: 26px;
+  padding: 15px 0px 16px 21px;
+
+  border: 1px solid #DDDDDD;
+  border-radius: 5px;
+}
