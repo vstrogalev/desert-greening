@@ -21,9 +21,7 @@
 
 @import url(../blocks/slider/slider.css);
 @import url(../blocks/slider/__arrow-left/__arrow-left.css);
-@import url(../blocks/slider/__arrow-left/__arrow-left_active/__arrow-left_active.css);
 @import url(../blocks/slider/__arrow-right/slider__arrow-right.css);
-@import url(../blocks/slider/__arrow-right/__arrow-right_active/slider__arrow-right_active.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__top/header__top.css);
