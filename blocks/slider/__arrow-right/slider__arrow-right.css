@@ -1,21 +1,21 @@
 .slider__arrow-right {
   position: absolute;
   background: transparent;
-  background-image: url(../../../images/buttons/slider_btn_right.svg);
-  background-position: center;
   padding: 0;
   margin: 0;
   width: 57px;
   height: 57px;
   right: 50px;
   top: 46%;
-  border: none;
+  border: 1px solid var(--border);
   border-radius: 100%;
   cursor: pointer;
   box-shadow: 0px 10px 25px rgba(33, 52, 48, 0.08);
   z-index: 1;
+  background: #FFFFFF;
 }
 
 .slider__arrow-right:hover {
-  background-image: url(../../../images/buttons/slider_btn_right_active.svg);
+  color: #fff;
+  background-color: var(--slider-btn-active);
 }

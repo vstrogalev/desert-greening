@@ -20,7 +20,7 @@
 @import url(../blocks/card-subtitle/card__subtitle.css);
 
 @import url(../blocks/slider/slider.css);
-@import url(../blocks/slider/__arrow-left/__arrow-left.css);
+@import url(../blocks/slider/__arrow-left/slider__arrow-left.css);
 @import url(../blocks/slider/__arrow-right/slider__arrow-right.css);
 
 @import url(../blocks/header/header.css);
@@ -226,6 +226,8 @@
 @import url(../blocks/footer/__subscribe-form/footer__subscribe-form.css);
 @import url(../blocks/footer/__subscribe-name/footer__subscribe-name.css);
 @import url(../blocks/footer/__subscribe-email/footer__subscribe-email.css);
+
+@import url(../blocks/footer/__nav/footer__nav.css);
 
 @import url(../blocks/footer/__down/footer__down.css);
 @import url(../blocks/footer/__down-inner/footer__down-inner.css);
