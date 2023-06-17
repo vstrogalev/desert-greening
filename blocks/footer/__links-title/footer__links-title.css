@@ -1,0 +1,7 @@
+.footer__links-title {
+  margin: 0 0 12px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  color: var(--line-links);
+}

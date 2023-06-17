@@ -1,0 +1,7 @@
+.footer__promo {
+  background-image: url(../../../images/footer_pattern.svg);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: 499px 476px;
+  flex-grow: 3;
+}

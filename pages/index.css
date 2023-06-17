@@ -4,13 +4,22 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/wrapper/wrapper.css);
+
 @import url(../blocks/social/social.css);
+@import url(../blocks/social/__item/social__item.css);
+
 @import url(../blocks/marker/marker.css);
+
 @import url(../blocks/button-regular/button-regular.css);
 @import url(../blocks/button-play/button-play.css);
+
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
+
 @import url(../blocks/caption/caption.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__img/logo__img.css);
 
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__image/card__image.css);
@@ -228,8 +237,21 @@
 @import url(../blocks/footer/__subscribe-email/footer__subscribe-email.css);
 
 @import url(../blocks/footer/__nav/footer__nav.css);
+@import url(../blocks/footer/__promo/footer__promo.css);
 
 @import url(../blocks/footer/__down/footer__down.css);
 @import url(../blocks/footer/__down-inner/footer__down-inner.css);
 @import url(../blocks/footer/__down-links/footer__down-links.css);
 @import url(../blocks/footer/__down-link/footer__down-link.css);
+@import url(../blocks/footer/__mission/footer__mission.css);
+
+@import url(../blocks/footer/__useful/footer__useful.css);
+@import url(../blocks/footer/__links-title/footer__links-title.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+
+@import url(../blocks/footer/__certificates/footer__certificates.css);
+@import url(../blocks/footer/__prizes/footer__prizes.css);
+@import url(../blocks/footer/__logo-ukostrom/footer__logo-ukostrom.css);
+@import url(../blocks/footer/__logo-prima/footer__logo-prima.css);
+@import url(../blocks/footer/__achieve/footer__achieve.css);
