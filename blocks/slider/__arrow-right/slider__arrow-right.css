@@ -19,3 +19,9 @@
   color: #fff;
   background-color: var(--slider-btn-active);
 }
+
+@media (max-width: 1024px) {
+  .slider__arrow-right {
+    right: 2rem;
+  }
+}

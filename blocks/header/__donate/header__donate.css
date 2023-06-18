@@ -15,3 +15,10 @@
   cursor: pointer;
   color: #fff;
 }
+
+@media (max-width: 1024px) {
+  .header__donate {
+    width: 144px;
+    font-size: 14px;
+  }
+}

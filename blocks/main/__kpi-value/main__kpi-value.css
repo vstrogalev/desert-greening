@@ -5,3 +5,10 @@
   padding-bottom: 6px;
   border-bottom: 3px solid #ECA30C;
 }
+
+@media (max-width: 1024px) {
+  .main__kpi-value {
+    font-size: 2rem;
+    padding-bottom: .4rem;
+  }
+}

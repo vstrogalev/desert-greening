@@ -5,3 +5,9 @@
   display: flex;
   gap: 30px;
 }
+
+@media (max-width: 1024px) {
+  .header__menu-items {
+    gap: 8px;
+  }
+}

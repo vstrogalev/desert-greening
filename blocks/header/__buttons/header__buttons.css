@@ -14,3 +14,8 @@
   width: 40%;
   }
 }
+@media (max-width: 1024px) {
+  .header__buttons {
+    padding-left: 26px;
+  }
+}

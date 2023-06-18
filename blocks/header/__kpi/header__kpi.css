@@ -12,6 +12,13 @@
 
 @media (max-width: 1440px) {
   .header__kpi {
-  width: 70%;
+    width: 70%;
+  }
+}
+
+@media (max-width: 1440px) {
+  .header__kpi {
+    width: 60%;
+    padding-right: 26px;
   }
 }

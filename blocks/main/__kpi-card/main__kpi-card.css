@@ -5,3 +5,10 @@
   align-items: flex-start;
   gap: 12px;
 }
+
+@media (max-width: 1024px) {
+  .main__kpi-card {
+    width: 10rem;
+    gap: .5rem;
+  }
+}

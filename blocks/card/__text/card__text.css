@@ -7,3 +7,11 @@
   max-height: 52px;
   overflow: hidden;
 }
+
+@media (max-width: 1024px) {
+  .card__text {
+    font-size: .8rem;
+    line-height: 1.2;
+    max-height: 2rem;
+  }
+}

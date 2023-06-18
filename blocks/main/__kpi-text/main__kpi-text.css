@@ -3,3 +3,10 @@
   font-size: 20px;
   line-height: 25px;
 }
+
+@media (max-width: 1024px) {
+  .main__kpi-text {
+    font-size: 1rem;
+    line-height: 1.2rem;
+  }
+}

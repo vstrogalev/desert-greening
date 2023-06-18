@@ -4,3 +4,10 @@
   object-fit: cover;
   margin-bottom: 22px;
 }
+
+@media (max-width: 1024px) {
+  .card__image {
+    height: 10rem;
+    margin-bottom: 1rem;
+  }
+}

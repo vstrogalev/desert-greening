@@ -1,3 +1,9 @@
 .solutions__marker {
   margin: 0 auto 54px;
 }
+
+@media (max-width: 1024px) {
+  .solutions__marker {
+    margin: 0 auto 2rem;
+  }
+}

@@ -5,3 +5,9 @@
   font-size: 14px;
   line-height: 23px;
 }
+
+@media (max-width: 1024px) {
+  .header__menu-item-link {
+    font-size: 12px;
+  }
+}

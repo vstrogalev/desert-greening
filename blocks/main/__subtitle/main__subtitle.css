@@ -6,3 +6,11 @@
   font-size: 31px;
   line-height: 1.15;
 }
+
+@media (max-width: 1024px) {
+  .main__subtitle {
+    max-width: 65%;
+    font-size: 1.5rem;
+    line-height: 1.7rem;
+  }
+}

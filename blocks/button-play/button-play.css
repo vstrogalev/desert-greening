@@ -14,3 +14,11 @@
   background-color: transparent;
   background-image: url(../../images/buttons/play-button.svg);
 }
+
+@media (max-width: 1024px) {
+  .button-play {
+    width: 6rem;
+    height: 6rem;
+    background-size: contain;
+  }
+}
