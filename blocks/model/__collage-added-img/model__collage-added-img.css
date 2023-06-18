@@ -1,6 +1,6 @@
 .model__collage-added-img {
   position: absolute;
-  bottom: 0;
-  width: 270px;
-  right: 45px;
+  bottom: -8%;
+  right: -8%;
+  width: 50%;
 }

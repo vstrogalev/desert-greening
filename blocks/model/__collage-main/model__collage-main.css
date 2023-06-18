@@ -1,5 +1,5 @@
 .model__collage-main {
   position: relative;
-  width: 520px;
+  width: 100%;
   object-fit: cover;
 }

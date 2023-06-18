@@ -1,5 +1,6 @@
 .model__main {
-  width: 650px;
+  flex-grow: 1;
+  width: 48%;
   display: flex;
   flex-direction: column;
 }

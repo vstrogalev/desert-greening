@@ -1,3 +1,9 @@
 .partners {
   margin: 86px 0;
 }
+
+@media (max-width: 1024px) {
+  .partners {
+    margin: 4rem 0;
+  }
+}
