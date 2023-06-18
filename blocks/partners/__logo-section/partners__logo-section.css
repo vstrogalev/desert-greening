@@ -9,3 +9,9 @@
   align-content: flex-end;
   justify-content: space-evenly;
 }
+
+@media (max-width: 1024px) {
+  .partners__logo-section {
+    gap: 1rem;
+  }
+}

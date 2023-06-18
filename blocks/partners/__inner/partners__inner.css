@@ -2,3 +2,9 @@
   display: flex;
   gap: 86px;
 }
+
+@media (max-width: 1024px) {
+  .partners__inner {
+    gap: 1rem;
+  }
+}

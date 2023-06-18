@@ -3,3 +3,10 @@
   text-align: start;
   margin: 0 0 24px;
 }
+
+@media (max-width: 1024px) {
+  .partners__title {
+    width: 28rem;
+    margin: 0 0 .8rem;
+  }
+}

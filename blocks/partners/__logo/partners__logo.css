@@ -1,0 +1,10 @@
+.partners__logo {
+  width: 10rem;
+  height: 4.5rem;
+}
+
+@media (max-width: 1024px) {
+  .partners__logo {
+    width: 8rem;
+  }
+}
