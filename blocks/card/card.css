@@ -9,3 +9,9 @@
   border-radius: 10px;
   padding-bottom: 26px;
 }
+
+@media (max-width: 1440px) {
+  .card {
+    width: 27%;
+  }
+}

@@ -10,3 +10,10 @@
   border-radius: 10px;
   z-index: -1;
 }
+
+@media (max-width: 1440px) {
+  .testimonials__collage {
+    right: 0;
+    width: 50%;
+  }
+}

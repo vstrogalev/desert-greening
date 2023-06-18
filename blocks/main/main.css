@@ -1,13 +1,25 @@
 .main {
   position: relative;
-  height: 100vh;
+  min-height: 100vh;
   background-image: url(../../images/header/header-bg2.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+}
+
+.main::before {
+  content: '';
+  position: absolute;
+  width: 680px;
+  height: 938px;
+  left: -382px;
+  top: -356px;
+
+  background: var(--icons-bgc);
+  transform: rotate(32.95deg);
 }

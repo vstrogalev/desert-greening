@@ -1,5 +1,5 @@
 .solutions__card-btn {
-  width: 346px;
+  width: 100%;
   background-color: var(--card-btn);
   align-self: center;
 }

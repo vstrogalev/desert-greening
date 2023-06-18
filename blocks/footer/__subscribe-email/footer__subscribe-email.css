@@ -2,8 +2,15 @@
   box-sizing: border-box;
   width: 312px;
   margin-right: 26px;
-  padding: 15px 0px 16px 21px;
+  padding: 14px 0px 14px 21px;
 
   border: 1px solid #DDDDDD;
   border-radius: 5px;
+}
+
+@media (max-width: 1440px) {
+  .footer__subscribe-email {
+    width: 30%;
+    margin-right: 0;
+  }
 }

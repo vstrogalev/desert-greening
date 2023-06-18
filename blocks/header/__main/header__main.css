@@ -7,3 +7,9 @@
   align-items: center;
   z-index: 1;
 }
+
+@media (max-width: 1440px) {
+  .header__main {
+    height: 62px;
+  }
+}

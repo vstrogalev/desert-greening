@@ -1,10 +1,16 @@
 .header__buttons {
   height: 100%;
   width: 30%;
-  padding-right: 48px;
+  padding-left: 56px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   align-items: center;
   background-color: var(--line-links);
   z-index: 1;
+}
+
+@media (max-width: 1440px) {
+  .header__buttons {
+  width: 40%;
+  }
 }

@@ -1,6 +1,6 @@
 .header__kpi-trees {
   position: absolute;
-  width: 30%;
+  width: 40%;
   padding-right: 48px;
   height: 100%;
   top: 0;
@@ -16,4 +16,10 @@
   font-size: 14px;
   line-height: 23px;
   z-index: 1;
+}
+
+@media (max-width: 1440px) {
+  .header__kpi-trees {
+    width: 60%;
+  }
 }

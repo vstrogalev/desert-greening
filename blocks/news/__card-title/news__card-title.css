@@ -2,3 +2,9 @@
   font-size: 22px;
   line-height: 29px;
 }
+
+@media (max-width: 1440px) {
+  .news__card-title {
+    font-size: 20px;
+  }
+}
