@@ -6,3 +6,10 @@
   width: 252px;
   height: 72px;
 }
+
+@media (max-width: 1024px) {
+  .global__map-btn {
+    width: 12.5rem;
+    height: 4rem;
+  }
+}
