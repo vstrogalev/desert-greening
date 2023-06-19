@@ -17,3 +17,10 @@
   left: 0;
   color: var(--icons-bgc);
 }
+
+@media (max-width: 1024px) {
+  .model__item {
+    font-size: 1rem;
+    line-height: 1.2;
+  }
+}

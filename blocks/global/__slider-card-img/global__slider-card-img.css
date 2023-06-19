@@ -1,3 +1,9 @@
 .global__slider-card-img {
   margin-bottom: 45px;
 }
+
+@media (max-width: 1024px) {
+  .global__slider-card-img {
+    margin-bottom: 1.5rem;
+  }
+}

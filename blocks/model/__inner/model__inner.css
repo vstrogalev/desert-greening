@@ -10,7 +10,7 @@
 
 @media (max-width: 1024px) {
   .model__inner {
-    padding: 4rem 0;
-    gap: 3rem;
+    padding: 3rem 0;
+    gap: 4rem;
   }
 }

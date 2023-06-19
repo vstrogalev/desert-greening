@@ -1,8 +1,4 @@
 .model__main-subtitle {
-  font-weight: 600;
-  font-size: 20px;
-  line-height: 26px;
   margin: 0 0 9px;
-
-  color: var(--icons-bgc);
+  text-align:left;
 }

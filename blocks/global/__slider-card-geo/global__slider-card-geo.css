@@ -18,3 +18,13 @@
 .global__slider-card-geo i {
   margin-right: 9px;
 }
+
+@media (max-width: 1024px) {
+  .global__slider-card-geo {
+    height: 2.5rem;
+    font-size: .8rem;
+    padding: .2rem .5rem;
+    top: 9rem;
+    left: 2rem;
+  }
+}

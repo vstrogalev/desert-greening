@@ -2,3 +2,10 @@
   max-height: 78px;
   margin-bottom: 38px;
 }
+
+@media (max-width: 1024px) {
+  .global__slider-card-text {
+    max-height: 4rem;
+    margin-bottom: 1rem;
+  }
+}

@@ -1,4 +1,4 @@
-.model__mail-title {
+.model__main-title {
   font-weight: 600;
   font-size: 40px;
   line-height: 48px;
@@ -6,4 +6,10 @@
   margin: 0 0 12px;
 
   color: var(--title);
+}
+
+@media (max-width: 1024px) {
+.model__main-title {
+    font-size: 2rem;
+  }
 }

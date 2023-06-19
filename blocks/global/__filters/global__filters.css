@@ -9,3 +9,9 @@
   display: flex;
   gap: 10px;
 }
+
+@media (max-width: 1024px) {
+  .global__filters {
+    margin: 0 0 2rem;
+  }
+}
