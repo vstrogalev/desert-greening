@@ -2,3 +2,9 @@
   position: relative;
   margin-bottom: 23px;
 }
+
+@media (max-width: 1024px) {
+  .djanan {
+    margin-bottom: 3rem;
+  }
+}

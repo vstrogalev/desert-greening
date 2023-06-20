@@ -3,3 +3,10 @@
   display: flex;
   gap: 44px;
 }
+
+@media (max-width: 1024px) {
+  .djanan__photos {
+    height: 45rem;
+    gap: 2rem;
+  }
+}

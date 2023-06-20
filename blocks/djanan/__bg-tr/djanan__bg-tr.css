@@ -5,4 +5,11 @@
   color: #000;
   height: 777px;
   object-fit: cover;
+  z-index: -1;
+}
+
+@media (max-width: 1024px) {
+  .djanan__bg-tr {
+    height: 50rem;
+  }
 }

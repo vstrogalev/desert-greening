@@ -3,3 +3,10 @@
   bottom: 20%;
   z-index: 0;
 }
+
+@media (max-width: 1024px) {
+  .djanan__line {
+    bottom: 17rem;
+    width: 100%;
+  }
+}

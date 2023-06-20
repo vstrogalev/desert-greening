@@ -2,3 +2,10 @@
   max-width: 888px;
   margin: 18px auto 108px;
 }
+
+@media (max-width: 1024px) {
+  .djanan__title {
+    width: 100%;
+    margin: 1.5rem auto 5rem;
+  }
+}

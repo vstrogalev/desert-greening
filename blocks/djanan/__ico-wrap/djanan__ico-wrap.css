@@ -28,3 +28,21 @@
   transform: rotate(-90deg);
   z-index: 10;
 }
+
+@media (max-width: 1024px) {
+  .djanan__ico-wrap {
+    margin-top: 5rem;
+    width: 4.5rem;
+    height: 4.5rem;
+  }
+  .djanan__ico-wrap::before {
+    width: 6rem;
+    left: calc(50% - 3rem);
+    top: -4rem;
+  }
+  .djanan__ico-wrap::after {
+    width: 3rem;
+    left: calc(50% - 1.5rem);
+    bottom: -2rem;
+  }
+}
