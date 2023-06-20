@@ -3,3 +3,9 @@
   left: 0;
   top: 11px;
 }
+
+@media (max-width: 1024px) {
+  .causes__card-progress-start {
+    font-size: .8rem;
+  }
+}

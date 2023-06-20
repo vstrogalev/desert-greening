@@ -2,3 +2,9 @@
   margin: 21px auto 55px;
   max-width: 886px;
 }
+
+@media (max-width: 1024px) {
+  .causes__subtitle {
+    margin: 1rem auto 3rem;
+  }
+}

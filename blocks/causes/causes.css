@@ -1,3 +1,9 @@
 .causes {
   padding: 70px 0 0;
 }
+
+@media (max-width: 1024px) {
+  .causes {
+    padding: 1rem 0 0;
+  }
+}

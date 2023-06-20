@@ -4,3 +4,9 @@
   max-height: 42px;
   margin-bottom: 20px;
 }
+
+@media (max-width: 1024px) {
+  .causes__card-text {
+    font-size: 1rem;
+  }
+}

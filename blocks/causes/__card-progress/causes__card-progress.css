@@ -4,3 +4,9 @@
   align-items: center;
   margin-bottom: 28px;
 }
+
+@media (max-width: 1024px) {
+  .causes__card-progress{
+    margin-bottom: 1rem;
+  }
+}

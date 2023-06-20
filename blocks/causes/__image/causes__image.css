@@ -1,3 +1,9 @@
 .causes__image {
   height: 192px;
 }
+
+@media (max-width: 1024px) {
+  .causes__image {
+    height: 10rem;
+  }
+}

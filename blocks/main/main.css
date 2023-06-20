@@ -23,9 +23,9 @@
 
 @media (max-width: 1024px) {
   .main {
-    padding-top: 8rem;
+    padding-top: 10rem;
   }
   .main::before {
-    left: -50%;
+    left: -36rem;
   }
 }

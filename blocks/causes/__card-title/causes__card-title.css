@@ -2,13 +2,22 @@
   font-weight: 600;
   font-size: 22px;
   line-height: 29px;
-
+  height: 4rem;
   color: var(--title);
   margin-bottom: 20px;
 }
 
 @media (max-width: 1440px) {
   .causes__card-title {
-    font-size: 20px;
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .causes__card-title {
+    display: flex;
+    align-items: center;
+    height: 2rem;
+    line-height: 2rem;
   }
 }
