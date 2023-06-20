@@ -1,4 +1,11 @@
 .origin__col-left {
-  margin: 105px 0 7px;
+  margin: 105px 0 0;
   width: calc(50% - 10px);
+}
+
+@media (max-width: 1024px) {
+  .origin__col-left {
+    margin: 5rem 0 0;
+    width: calc(50% - 2rem);
+  }
 }

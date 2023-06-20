@@ -2,3 +2,9 @@
   text-align: left;
   margin-bottom: 14px;
 }
+
+@media (max-width: 1024px) {
+  .origin__caption {
+    margin-bottom: 1rem;
+  }
+}

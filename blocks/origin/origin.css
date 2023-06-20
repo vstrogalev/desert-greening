@@ -1,3 +1,9 @@
 .origin {
   margin-bottom: 145px;
 }
+
+@media (max-width: 1024px) {
+  .origin {
+    margin-bottom: 6rem;
+  }
+}

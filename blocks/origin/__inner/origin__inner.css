@@ -5,3 +5,10 @@
   align-items: flex-end;
   gap: 20px;
 }
+
+@media (max-width: 1024px) {
+  .origin__inner {
+    margin-bottom: 3rem;
+    gap: 2rem;
+  }
+}

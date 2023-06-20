@@ -3,3 +3,10 @@
   height: 378px;
   width: calc(50% - 10px);
 }
+
+@media (max-width: 1024px) {
+  .origin__col-right {
+    height: 28rem;
+    width: calc(50% - 10px);
+  }
+}
