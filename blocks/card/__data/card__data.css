@@ -2,3 +2,9 @@
   width: 100%;
   padding: 0 30px;
 }
+
+@media (max-width: 1024px) {
+  .card__data {
+    padding: 0 2rem;
+  }
+}

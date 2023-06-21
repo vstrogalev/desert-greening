@@ -1,3 +1,9 @@
 .transforming__card {
   width: 432px;
 }
+
+@media (max-width: 1024px) {
+  .transforming__card {
+    width: 30%;
+  }
+}
