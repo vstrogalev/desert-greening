@@ -3,3 +3,11 @@
   height: 58px;
   font-size: 22px;
 }
+
+@media (max-width: 1024px) {
+  .transforming__card-title {
+    margin: 0 0 2rem;
+    height: 4rem;
+    font-size: 1.7rem;
+  }
+}
