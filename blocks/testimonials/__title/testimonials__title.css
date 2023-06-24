@@ -1,3 +1,9 @@
 .testimonials__title {
   margin-top: 12px;
 }
+
+@media (max-width: 1024px) {
+  .testimonials__title {
+    margin-top: 1rem;
+  }
+}

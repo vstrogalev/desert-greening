@@ -6,3 +6,9 @@
   height: 777px;
   object-fit: cover;
 }
+
+@media (max-width: 1024px) {
+  .testimonials__bg-bl {
+    height: 100%;
+  }
+}

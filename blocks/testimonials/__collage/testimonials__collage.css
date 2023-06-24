@@ -17,3 +17,10 @@
     width: 50%;
   }
 }
+@media (max-width: 1024px) {
+  .testimonials__collage {
+    height: auto;
+    bottom: unset;
+    top: 5rem;
+  }
+}

@@ -18,3 +18,14 @@
     width: 50%;
   }
 }
+
+@media (max-width: 1024px) {
+  .testimonials__slider {
+    top: unset;
+    bottom: 2rem;
+    left: 2rem;
+    width: 60%;
+    height: auto;
+    padding: 2rem;
+  }
+}

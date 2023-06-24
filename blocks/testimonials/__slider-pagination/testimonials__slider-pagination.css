@@ -8,3 +8,12 @@
   gap: 12px;
   align-items: center;
 }
+
+@media (max-width: 1024px) {
+  .testimonials__slider-pagination  {
+    height: 0;
+    bottom: 2rem;
+    left: calc(50% - 3rem);
+    gap: .3rem;
+  }
+}

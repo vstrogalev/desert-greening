@@ -6,3 +6,10 @@
   align-items: center;
   gap: 6px;
 }
+
+@media (max-width: 1024px) {
+  .testimonials__card-author  {
+    margin-top: 1rem;
+    gap: .7rem;
+  }
+}

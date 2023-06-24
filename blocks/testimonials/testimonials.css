@@ -2,3 +2,10 @@
   height: 844px;
   margin-bottom: 48px;
 }
+
+@media (max-width: 1024px) {
+  .testimonials {
+    height: 40rem;
+    margin-bottom: 3rem;
+  }
+}

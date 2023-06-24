@@ -6,3 +6,11 @@
 
   color: var(--icons-bgc);
 }
+
+@media (max-width: 1024px) {
+  .testimonials__card-caption  {
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+    margin: 0;
+  }
+}
