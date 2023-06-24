@@ -4,3 +4,11 @@
   line-height: 48px;
   max-width: 714px;
 }
+
+@media (max-width: 1024px) {
+  .join__title {
+    margin-bottom: 1.5rem;
+    line-height: 3rem;
+    max-width: 75%;
+  }
+}

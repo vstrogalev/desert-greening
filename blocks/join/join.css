@@ -7,3 +7,10 @@
   background-size: cover;
   color: #fff;
 }
+
+@media (max-width: 1024px) {
+  .join {
+    padding: 4rem 0;
+    height: auto;
+  }
+}
