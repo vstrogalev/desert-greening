@@ -2,3 +2,9 @@
   margin: 12px 0 174px;
   text-transform: none;
 }
+
+@media (max-width: 1024px) {
+  .community__title {
+    margin: 1rem 0 5rem;
+  }
+}

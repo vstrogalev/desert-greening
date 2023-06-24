@@ -5,3 +5,9 @@
   justify-content: flex-end;
   align-items: flex-start;
 }
+
+@media (max-width: 1024px) {
+  .community__content {
+    width: 48%;
+  }
+}

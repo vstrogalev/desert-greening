@@ -5,3 +5,9 @@
   background-size: cover;
   background-position: center;
 }
+
+@media (max-width: 1024px) {
+  .community {
+    padding: 5rem 0;
+  }
+}
