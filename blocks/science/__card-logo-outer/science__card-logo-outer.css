@@ -1,15 +1,21 @@
 .science__card-logo-outer {
+  position: relative;
   width: 161px;
   height: 130px;
-  left: calc(50% - 161px/2 + 346px);
-  top: 171px;
   display: flex;
   justify-content: center;
   align-items:center;
   margin-bottom: 24px;
 
-  /* background: #131A21; */
   background-color: #000;
   border: 1px solid #FFFFFF;
   border-radius: 11px;
+}
+
+@media (max-width: 1024px) {
+  .science__card-logo-outer {
+    width: 12rem;
+    height: 9rem;
+    margin-bottom: 2rem;
+  }
 }
