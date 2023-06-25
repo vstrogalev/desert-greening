@@ -1,5 +1,5 @@
 .news__hashtag-link {
-  height: 34px;
+  display: inline-block;
   margin: 0;
   padding: 7px 19px;
   text-decoration: none;
@@ -11,4 +11,12 @@
   color: var(--line-links);
   background: var(--hashtag-bg);
   border-radius: 5px;
+}
+
+@media (max-width: 1024px) {
+  .news__hashtag-link {
+    padding: 0.4rem 0.6rem;
+    font-size: .8rem;
+    line-height: 1.2;
+  }
 }

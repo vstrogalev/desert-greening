@@ -1,3 +1,9 @@
 .news {
   margin-bottom: 90px;
 }
+
+@media (max-width: 1024px) {
+  .news {
+    margin-bottom: 3rem;
+  }
+}

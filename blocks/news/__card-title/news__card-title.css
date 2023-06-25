@@ -3,8 +3,10 @@
   line-height: 29px;
 }
 
-@media (max-width: 1440px) {
+@media (max-width: 1024px) {
   .news__card-title {
-    font-size: 20px;
+    display: flex;
+    align-items: center;
+    line-height: unset;
   }
 }

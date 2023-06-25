@@ -2,3 +2,10 @@
   height: 256px;
   margin-bottom: 32px;
 }
+
+@media (max-width: 1024px) {
+  .transforming__card-img {
+    height: 16rem;
+    margin-bottom: 2rem;
+  }
+}
