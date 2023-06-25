@@ -5,3 +5,11 @@
   line-height: 28px;
   color: var(--line-links);
 }
+
+@media (max-width: 1024px) {
+  .footer__links-title {
+    margin: 0 0 1rem;
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+}

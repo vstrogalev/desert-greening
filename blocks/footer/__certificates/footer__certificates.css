@@ -1,3 +1,9 @@
 .footer__certificates {
   width: 316px;
 }
+
+@media (max-width: 1024px) {
+  .footer__certificates {
+    width: 20rem;
+  }
+}

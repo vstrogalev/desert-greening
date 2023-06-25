@@ -4,3 +4,11 @@
   padding: 0 90px 16px 30px;
   margin-right: 48px;
 }
+
+@media (max-width: 1024px) {
+  .footer__useful {
+    width: 25rem;
+    padding: 0 2rem 1rem 2rem;
+    margin-right: 2rem;
+  }
+}

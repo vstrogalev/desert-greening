@@ -4,3 +4,10 @@
   justify-content: flex-end;
   gap: 18px;
 }
+
+@media (max-width: 1024px) {
+  .footer__subscribe-form {
+    height: auto;
+    gap: 1rem;
+  }
+}

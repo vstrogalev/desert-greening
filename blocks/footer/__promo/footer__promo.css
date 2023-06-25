@@ -5,3 +5,9 @@
   background-size: 499px 476px;
   flex-grow: 3;
 }
+
+@media (max-width: 1024px) {
+  .footer__promo {
+    background-size: 30rem 30rem;
+  }
+}

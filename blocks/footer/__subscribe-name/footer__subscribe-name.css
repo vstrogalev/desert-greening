@@ -12,3 +12,9 @@
     width: 30%;
   }
 }
+
+@media (max-width: 1024px) {
+  .footer__subscribe-name {
+    height: 3rem;
+  }
+}

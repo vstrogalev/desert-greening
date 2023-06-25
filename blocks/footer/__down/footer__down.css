@@ -2,3 +2,9 @@
   height: 72px;
   background-color: var(--icons-bgc);
 }
+
+@media (max-width: 1024px) {
+  .footer__down {
+    height: 4rem;
+  }
+}

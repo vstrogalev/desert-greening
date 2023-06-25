@@ -11,3 +11,10 @@
     line-height: 36px;
   }
 }
+
+@media (max-width: 1024px) {
+  .footer__subscribe-title {
+    font-size: 2rem;
+    line-height: 2.2rem;
+  }
+}

@@ -3,3 +3,10 @@
   height: 141px;
   border-bottom: 1px solid var(--map-text);
 }
+
+@media (max-width: 1024px) {
+  .footer__subscribe {
+    height: auto;
+    padding: 1rem 0;
+  }
+}
